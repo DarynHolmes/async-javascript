@@ -1,4 +1,4 @@
-# Promises
+# An Introduction to Async JavaScript
 
 ## General
 
